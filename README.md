@@ -1,68 +1,143 @@
-# Hi, I'm Gautam Ghosh 👋
+# 👋 Hi, I'm Gautam Ghosh
 
-Mainframe System z Professional with 18+ years of experience in enterprise technology. Currently pursuing a DBA in AI/ML and exploring how Artificial Intelligence, Automation, and Data Analytics can transform enterprise operations.
+### Enterprise Infrastructure | IBM System z | DBA in AI/ML | Building AI Solutions & Intelligent Automation
 
-## 🚀 What I'm Building
+Welcome to my GitHub!
 
-* 🤖 AI-powered solutions for enterprise operations and IT automation
-* 📊 Data analytics and machine learning projects
-* ⚙️ Python-based automation tools
-* 🧠 Exploring Generative AI, RAG, AI Agents, and Enterprise AI use cases
-* 🏢 Mainframe modernization concepts powered by AI
+I'm an **Enterprise Infrastructure professional** with **18+ years of experience** designing, administering, and supporting mission-critical enterprise platforms, with a primary focus on **IBM System z**.
 
-## 🌱 Currently Learning
+Currently, I'm pursuing a **Doctor of Business Administration (DBA) in Artificial Intelligence & Machine Learning**, where I'm exploring how AI can enhance enterprise operations, automation, decision-making, and digital transformation.
 
-* Machine Learning & Predictive Analytics
-* Agentic AI Workflows
+My GitHub serves as my technical portfolio—documenting my learning journey, practical projects, research, and contributions to the technology community.
+
+---
+
+# 🚀 Current Focus
+
+I'm currently working on projects and research around:
+
+* Enterprise AI & Intelligent Automation
+* AI Agents & Agentic Workflows
 * Retrieval-Augmented Generation (RAG)
+* Machine Learning & Predictive Analytics
+* Python Development
+* Mainframe Modernization
+* Cloud & Hybrid AI Integration
 * AI for Enterprise Operations
-* Cloud & AI Integration Patterns
 
-## 💼 Professional Interests
+---
 
-* Mainframe Systems Administration
-* Enterprise Automation
-* AI/ML Applications
-* Data Analytics
-* Generative AI
-* Digital Transformation
+# 💼 Professional Expertise
 
-## 🛠️ Tech Stack
+### Enterprise Infrastructure
 
-`Mainframe z/OS` `Python` `GitHub` `Generative AI`
-`Machine Learning` `Data Analytics`
-`Prompt Engineering` `IBM Z`
-`Automation` `SQL`
-
-## 📂 Featured Repositories
-
-* AI-Learning-Journey
-* Mainframe-AI-UseCases
-* Python-Projects
-* Data-Analytics-Portfolio
-* DBA-AI-Research
-
-## 🤝 Looking to Collaborate On
-
-* Enterprise AI projects
-* Mainframe modernization initiatives
-* AI-powered automation solutions
-* Data analytics and business intelligence projects
-
-## 💬 Ask Me About
-
+* IBM System z
 * Mainframe Administration
-* IBM Z Ecosystem
-* AI Learning Journey
 * Enterprise Automation
-* Generative AI Tools
+* Infrastructure Operations
+* Enterprise Modernization
 
-## 📫 Connect With Me
+### Artificial Intelligence
 
-* LinkedIn: https://www.linkedin.com/in/gautamsghosh
-* Hugging Face: https://huggingface.co/gautamsghosh
+* Machine Learning
+* Generative AI
+* Prompt Engineering
+* AI Agents
+* Enterprise AI
+* Intelligent Automation
 
-## ⚡ Fun Fact
+---
 
-I enjoy exploring how decades of enterprise IT experience can be combined with modern AI technologies to create practical business solutions.
+# 📚 Learning Journey
 
+I believe continuous learning is essential in today's rapidly evolving technology landscape.
+
+Current areas of study include:
+
+* DBA in Artificial Intelligence & Machine Learning
+* Advanced Machine Learning
+* Enterprise AI Architecture
+* AI Engineering
+* Agentic AI
+* Cloud-Native AI
+* AIOps / MLOps
+* AI Governance
+
+---
+
+# 🛠️ Technologies & Tools
+
+**Enterprise**
+
+IBM System z • z/OS • z/VM • Enterprise Automation
+
+**Programming**
+
+Python • SQL
+
+**AI & Data**
+
+Machine Learning • Generative AI • RAG • AI Agents • Prompt Engineering • Data Analytics
+
+**Development**
+
+Git • GitHub • Flask • Streamlit • scikit-learn • Microsoft 365 Copilot
+
+---
+
+# 🌟 Community & Knowledge Sharing
+
+I actively contribute to the technology community through:
+
+* Technical blogging
+* Community advocacy
+* Knowledge sharing
+* Technical presentations
+* AI and Enterprise Technology research
+* Continuous learning and mentoring
+
+### Community Recognition
+
+* IBM Influencer 2025
+* IBM Z & LinuxONE Community Advocate 2025 (Level 2)
+* IBM Z & LinuxONE Community Contributor 2026 (Level 1)
+
+---
+
+# 📂 Featured Repositories
+
+Here you'll find projects related to:
+
+* Enterprise Infrastructure
+* Artificial Intelligence
+* Python Development
+* Machine Learning
+* Enterprise Automation
+* Technical Writing
+* Learning Notes
+* Community Contributions
+
+---
+
+# 🎯 Mission
+
+My mission is to bridge decades of enterprise infrastructure experience with modern Artificial Intelligence, creating practical solutions that improve enterprise operations while sharing knowledge with the broader technology community.
+
+---
+
+# 🤝 Let's Connect
+
+💼 LinkedIn
+https://www.linkedin.com/in/gautamsghosh
+
+✍️ Medium  
+https://medium.com/@gautamsghosh
+
+𝕏 (Twitter)  
+https://x.com/gautamsghosh
+🤗 Hugging Face
+https://huggingface.co/gautamsghosh
+
+---
+
+*"Technology evolves through continuous learning, practical experimentation, and knowledge sharing. This GitHub portfolio reflects that journey."*
