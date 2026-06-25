@@ -127,7 +127,7 @@ My mission is to bridge decades of enterprise infrastructure experience with mod
 
 # 🤝 Let's Connect
 
-💼 LinkedIn
+💼 LinkedIn  
 https://www.linkedin.com/in/gautamsghosh
 
 ✍️ Medium  
@@ -136,7 +136,7 @@ https://medium.com/@gautamsghosh
 𝕏 (Twitter)  
 https://x.com/gautamsghosh
 
-🤗 Hugging Face
+🤗 Hugging Face  
 https://huggingface.co/gautamsghosh
 
 ---
